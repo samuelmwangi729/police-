@@ -125,7 +125,7 @@ CREATE TABLE `cr` (
 
 INSERT INTO `cr` (`id`, `cr_no`, `ob_no`, `c_date`, `c_time`, `c_name`, `c_address`, `Assulted_tel`, `a_name`, `a_id`, `a_address`, `a_occupation`, `a_nationality`, `a_age`, `a_sex`, `a_method`, `a_cell`, `cell_transfer`, `a_date`, `a_time`, `a_phy`, `a_officer`, `court_name`, `court_file_number`, `cdo`, `remarks`, `Investigator`, `hcl`, `cout`, `outcome_date`, `r_date`, `r_time`, `r_phy`, `r_iofficer`, `status`, `disposed`, `type`) VALUES
 (1, '831/1/2019', '1/28/03/2019', '2019-03-28', '12:59', 'samuel mwangi', '100 eldoret', 0, 'safaricom', 88576645, '564 westLand', 'Security Consultant', 'kenyan', 67, 'Male', 'Summons', '1', '2', '2019-03-28', '01:00', 'better', 'corporal james class', 'Milimani Law Court', 'sel/17/56', 'sam34', '', 'Inspector paul kamau', '788', 'Fined', '2019-03-28', '2019-03-28', '01:00', 'good', 'corporal james class', 1, 1, ''),
-(2, '831/2/2019', '2/28/03/2019', '', '', 'james kamau', '546 eistleigh', 704922042, 'Professor', 0, '', '', 'Kenyan', 0, '', 'Punches And Knives', '0', '', '2019-03-28', '12:59 AM', '', 'Chief Inspector Samuel Mwangi', '', '', '', '', '', '', 'Withdrawn', '2019-03-28', '', '', '', '', 0, 0, 'Assault');
+(2, '831/2/2019', '2/28/03/2019', '', '', 'james kamau', '546 eistleigh', 069799392, 'Professor', 0, '', '', 'Kenyan', 0, '', 'Punches And Knives', '0', '', '2019-03-28', '12:59 AM', '', 'Chief Inspector Samuel Mwangi', '', '', '', '', '', '', 'Withdrawn', '2019-03-28', '', '', '', '', 0, 0, 'Assault');
 
 -- --------------------------------------------------------
 
@@ -158,7 +158,7 @@ CREATE TABLE `officers` (
 --
 
 INSERT INTO `officers` (`id`, `Rank`, `names`, `id_card`, `phone`) VALUES
-(3, 'corporal', 'james class', 321345, 70492202),
+(3, 'corporal', 'james class', 321345, 949494994),
 (1, 'Chief Inspector', 'Samuel Mwangi', 22321145, 798608703),
 (2, 'Inspector', 'paul kamau', 77645532, 705877568);
 
