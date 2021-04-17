@@ -159,8 +159,8 @@ CREATE TABLE `officers` (
 
 INSERT INTO `officers` (`id`, `Rank`, `names`, `id_card`, `phone`) VALUES
 (3, 'corporal', 'james class', 321345, 949494994),
-(1, 'Chief Inspector', 'Samuel Mwangi', 22321145, 798608703),
-(2, 'Inspector', 'paul kamau', 77645532, 705877568);
+(1, 'Chief Inspector', 'Samuel Mwangi', 22321145, 0700000000),
+(2, 'Inspector', 'paul kamau', 77645532, 0700000000);
 
 -- --------------------------------------------------------
 
